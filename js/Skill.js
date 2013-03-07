@@ -1,0 +1,3 @@
+var Skill = function(arguments) {
+
+};
